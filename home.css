@@ -26,7 +26,7 @@
    position:relative;
 }
 .navbar ul li a{
-    font-size:45px;
+    font-size:30px;
     text-decoration: none;
     color:#fff;
     text-transform: uppercase;
@@ -74,7 +74,7 @@ button{
  cursor: pointer;
  position: relative;
  overflow: hidden;
- font-size:40px;
+ font-size:27px;
 }
 span{
     background: aqua;
